@@ -27,7 +27,7 @@ jobs:
         uses: docker/login-action@v2
         with:
           username: 15229106888@163.com
-          password: 15129508770@z
+          password: 15129508770z
 
       - name: Build and Push Dev Image
         run: |
